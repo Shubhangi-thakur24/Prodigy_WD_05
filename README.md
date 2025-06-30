@@ -1,3 +1,4 @@
 # Prodigy_WD_05
 🌦 Weather App – Real-Time Forecast with Dynamic Interface
+
 This Weather App is a responsive and dynamic web application that allows users to get real-time weather updates for any city around the world. It uses the OpenWeatherMap API to fetch live weather data, including temperature, humidity, wind speed, and weather conditions. The app features dynamic icon updates based on the weather condition and time of day (e.g., sunny vs. night clear), a built-in loading spinner, and graceful error handling for invalid city names. It also supports geolocation to auto-fetch weather for the user's current location. Built using HTML, CSS, and JavaScript, this app is optimized for user interaction with features like Enter key search, mobile responsiveness, and dynamic UI updates. It's perfect for learners and developers looking to understand API integration and DOM manipulation in modern web development.
